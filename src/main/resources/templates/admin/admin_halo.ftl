@@ -22,7 +22,7 @@
     <section class="content container-fluid" id="animated-content">
         <div id='write' class='is-mac'>
             <blockquote style="font-size: 14px;">
-                <p>???????Halo?????</p>
+                <p>Thank You!</p>
             </blockquote>
             <p>Thank You!</p>
             <p>Blog : <a href="https://ricky-xd.cn" target="_blank">https://ricky-xd.cn</a> </p>
